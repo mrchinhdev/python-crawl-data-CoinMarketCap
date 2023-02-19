@@ -1,5 +1,4 @@
 from urllib.parse import urlencode
-
 import requests
 from tabulate import tabulate
 import csv
